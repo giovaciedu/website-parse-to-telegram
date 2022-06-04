@@ -21,3 +21,7 @@ edit `scheduletime` to change the period between the execution
 `parse.find_all()` to choose which element to parse
 
 `bot_token` `bot_chatID`: setup the telegram bot
+
+if you want to parse a specific section, use `parse.find_all()`
+
+https://docs.python.org/3/library/xml.etree.elementtree.html
