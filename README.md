@@ -16,6 +16,8 @@ Just clone the script onto your machine
 
 edit `scheduletime` to change the period between the execution
 
-   `url` : website url
-	`parse.find_all()` to choose which element to parse
-  `bot_token` `bot_chatID`: setup the telegram bot
+`url` : website url
+
+`parse.find_all()` to choose which element to parse
+
+`bot_token` `bot_chatID`: setup the telegram bot
