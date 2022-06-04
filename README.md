@@ -1,5 +1,5 @@
 # website-parse-to-telegram
-parse content from a website and send it as a message via telegram to a channel/group periodically
+parse content (or a specific section) from a website and send it as a message via telegram to a channel/group periodically
 
 it works against the cloudflare protection
 
