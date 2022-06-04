@@ -12,7 +12,7 @@ made for python3
 
 Just clone the script onto your machine
 
-##Usage
+## Usage
 
 edit `scheduletime` to change the period between the execution
 
